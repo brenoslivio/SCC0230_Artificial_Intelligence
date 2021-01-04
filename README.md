@@ -7,6 +7,7 @@
     Projects made for the course SCC0230 Artificial Intelligence using concepts like knowledge graphs and classification.
     <br />
     <br />
+    <a href="https://github.com/brenoslivio/SCC0230_Artificial_Intelligence"><strong>Explore the docs »</strong></a>
   </p>
 </p>
 
@@ -60,7 +61,7 @@ Python 3.8 or greater, Jupyter Notebook. There are some libraries you may need t
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/brenoslivio/SME0828_DataScience.git
+   git clone https://github.com/brenoslivio/SCC0230_Artificial_Intelligence.git
    ```
 2. Simply run Jupyter Notebook to open the projects.
 
